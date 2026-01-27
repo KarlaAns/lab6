@@ -10,4 +10,4 @@ const isPerfect = (num ) => {
             }
         }
         return sum === num;
-}
+};
