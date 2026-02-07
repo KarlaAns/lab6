@@ -1,4 +1,4 @@
-const isPerfect = require('isPerfect');
+const isPerfect = require('./perfectNumber');
 
 describe('PerfectNumber', () => {
     it('should return true for perfect number 6', () => {
